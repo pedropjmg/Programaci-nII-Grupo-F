@@ -1,0 +1,17 @@
+
+    h1{
+        color: rgb(140, 0, 255);
+    }
+    p{
+        color: rgb(22, 194, 30);
+    }
+    #parrafo2{
+        color: rgb(255, 0, 140);
+    }
+    #parrafo4{
+        color: darkorchid;
+    }
+    .subtitulo{
+        color: brown;
+        background-color: rgb(134, 202, 241);
+    }
